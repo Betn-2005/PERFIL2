@@ -4,7 +4,7 @@ Instrucciones de Configuración:
 
 2. Asegúrate de que XAMPP esté en ejecución. Inicia Apache y MySQL desde el Panel de Control de XAMPP.
 
-3. Abre el navegador web y accede a la aplicación utilizando la URL: http://localhost/nombre_de_tu_carpeta.
+3. Abre el navegador web y accede a la aplicación.
 
 4. La aplicación requiere una base de datos MySQL.
 5. A continuación, se detallan los pasos para configurar la base de datos:
